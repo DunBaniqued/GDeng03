@@ -1,0 +1,11 @@
+C:\Others\GitHub\GDeng03\GDeng03\App\AppWindow.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\AppWindow.obj
+C:\Others\GitHub\GDeng03\GDeng03\App\Main.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\Main.obj
+C:\Others\GitHub\GDeng03\GDeng03\App\Quad.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\Quad.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\GraphicsEngine\DeviceContext\DeviceContext.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\DeviceContext.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\WindowingSystem\Window.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\Window.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\GraphicsEngine\GraphicsEngine.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\GraphicsEngine.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\VertxBuffer\VertxBuffer.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\VertxBuffer.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\GraphicsEngine\SwapChainz\SwapChainz.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\SwapChainz.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\GraphicsEngine\PixelShader\PixelShader.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\PixelShader.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\GraphicsEngine\VertexShader\VertexShader.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\VertexShader.obj
+C:\Others\GitHub\GDeng03\GDeng03\GameEngine\GraphicsEngine\ShaderErrorChecker\ShaderErrorChecker.cpp;C:\Others\GitHub\GDeng03\GDeng03\x64\Debug\ShaderErrorChecker.obj
