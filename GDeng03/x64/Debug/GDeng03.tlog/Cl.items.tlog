@@ -1,0 +1,11 @@
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\App\AppWindow.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\AppWindow.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\App\Main.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\Main.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\App\Quad.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\Quad.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\DeviceContext\DeviceContext.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\DeviceContext.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\WindowingSystem\Window.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\Window.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\GraphicsEngine.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\GraphicsEngine.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\VertxBuffer\VertxBuffer.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\VertxBuffer.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\SwapChainz\SwapChainz.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\SwapChainz.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\PixelShader\PixelShader.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\PixelShader.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\VertexShader\VertexShader.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\VertexShader.obj
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\ShaderErrorChecker\ShaderErrorChecker.cpp;C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GDeng03\x64\Debug\ShaderErrorChecker.obj

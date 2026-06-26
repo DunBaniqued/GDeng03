@@ -1,0 +1,25 @@
+﻿  AppWindow.cpp
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\App\AppWindow.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'App/AppWindow.cpp')
+  
+  Main.cpp
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\App\AppWindow.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'App/Main.cpp')
+  
+  Quad.cpp
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\App\AppWindow.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'App/Quad.cpp')
+  
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\App\Quad.cpp(22,64): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  DeviceContext.cpp
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\DeviceContext\DeviceContext.cpp(44,16): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\GameEngine\GraphicsEngine\DeviceContext\DeviceContext.cpp(45,17): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  Window.cpp
+  GraphicsEngine.cpp
+  VertxBuffer.cpp
+  SwapChainz.cpp
+  PixelShader.cpp
+  VertexShader.cpp
+  ShaderErrorChecker.cpp
+  Generating Code...
+  GDeng03.vcxproj -> C:\Users\dunba\OneDrive\Documents\GitHub\GDeng03\x64\Debug\GDeng03.exe
